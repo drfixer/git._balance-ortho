@@ -1,0 +1,46 @@
+.title {
+  font-size: 50px;
+  color: grey;
+}
+
+.title p {
+  font-size: 20px;
+  margin-top: -10px;
+}
+
+.logo {
+height: 75px;
+width: auto;
+margin-top: 15px;
+margin-right: -10px;
+}
+
+.big-pic {
+  width: 100%;
+  height: auto;
+}
+
+#profile-pic {
+  width: 100%;
+  height: auto;
+  border-radius: 100%;
+}
+
+.logo-school {
+  height: 200px;
+  width: auto;
+}
+
+.row {
+  margin-bottom: 0px;
+}
+
+/*#contact-us {
+  padding: 30px;
+}*/
+
+footer {
+  margin-top: 25px;
+  letter-spacing: 2px;
+}
+/*Alegreya Sans SC, 'Amatic SC'*/

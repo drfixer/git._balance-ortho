@@ -1,6 +1,20 @@
 .header-title {
   font-size: 50px;
   color: grey;
+  text-align: center;
+  /*border: 1px red solid;*/
+}
+
+.navbar-hav {
+  background-color: white;
+}
+
+.icons-right {
+  margin-left: 210px;
+}
+
+.row {
+  /*border: 1px red solid;*/
 }
 
 .header-title p {
@@ -9,16 +23,17 @@
 }
 
 .logo {
-height: 75px;
+height: 125px;
 width: auto;
-margin-top: 15px;
+
 margin-right: -10px;
+/*border: 10x blue solid;*/
 }
 
 .title {
 text-align: center;
 margin-top: 50px;
-margin-bottom: 100px;
+margin-bottom: 0px;
 }
 
 .big-pic {
@@ -33,11 +48,15 @@ margin-bottom: 100px;
 }
 
 .logo-school {
-  margin-left: 12px;
-  margin-right: 12px;
+  margin-left: 20px;
+  margin-right: 20px;
   margin-bottom: 20px;
   height: 125px;
   width: auto;
+}
+
+.content {
+  margin-top: 20px;
 }
 
 .row {

@@ -4,9 +4,8 @@
   text-align: center;
   /*border: 1px red solid;*/
 }
-
-.navbar-hav {
-  background-color: white;
+nav {
+  margin-bottom: 500px;
 }
 
 .icons-right {
@@ -25,7 +24,6 @@
 .logo {
 height: 125px;
 width: auto;
-
 margin-right: -10px;
 /*border: 10x blue solid;*/
 }

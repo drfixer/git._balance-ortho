@@ -1,11 +1,16 @@
+body {
+  padding-top: 70px;
+}
+
+h1 {
+  padding-top: 70px;
+}
+
 .header-title {
   font-size: 50px;
   color: grey;
   text-align: center;
   /*border: 1px red solid;*/
-}
-nav {
-  margin-bottom: 500px;
 }
 
 .icons-right {
@@ -70,3 +75,16 @@ footer {
   letter-spacing: 2px;
 }
 /*Alegreya Sans SC, 'Amatic SC'*/
+
+@media (max-width: 767px) {
+    .navbar-fixed-top {
+        position: relative;
+        top: auto;
+    }
+    .navbar-collapse {
+        max-height: none;
+    }
+    body {
+        margin: 0;
+    }
+}

@@ -27,7 +27,7 @@ h1 {
 }
 
 .logo {
-height: 125px;
+max-height: 125px;
 width: auto;
 margin-right: -10px;
 /*border: 10x blue solid;*/
@@ -51,8 +51,8 @@ margin-bottom: 0px;
 }
 
 .logo-school {
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 25px;
+  margin-right: 25px;
   margin-bottom: 20px;
   height: 125px;
   width: auto;

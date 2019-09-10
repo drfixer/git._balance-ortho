@@ -21,8 +21,14 @@ h1 {
   text-align: center;
 }
 
-.col-sm-3, .col-sm-5 {
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6  {
   text-align: center;
+}
+
+#brand-logo {
+  width: 85%;
+  height: auto;
+  margin-top: 10px;
 }
 
 .logo {

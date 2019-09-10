@@ -6,35 +6,34 @@ h1 {
   padding-top: 70px;
 }
 
+.profile-text {
+  font-size: 18px;
+}
+
+.large-text li, p  {
+  font-size: 18px;
+}
+
 .text-center {
   text-align: center;
 }
 
-.col-sm-5, .col-sm-4, .col-sm-8 {
-  border: blue solid 1px;
-}
-
-.col-sm-5 {
-  text-align: center;
-}
-.col-sm-2 {
-  text-align: center;
-}
-
 .col-sm-8 {
+  /*text-align: right;*/
 }
 
 #brand-logo {
-margin-left: 10px;
+margin-left: 15px;
+margin-right: 15px;
 }
 
 .logo {
-max-height: 110px;
+max-height: 120px;
 width: auto;
-margin-left: 65px;
-margin-right: 65px;
-/*margin-right: -10px; */
-/*border: 10x blue solid;*/
+margin-left: 112px;
+margin-right: 0;
+margin-bottom: 18px;
+
 }
 
 .title {
@@ -46,7 +45,7 @@ margin-bottom: 0px;
 .big-pic {
   width: 100%;
   height: auto;
-  margin-top: 18px;
+  margin-top: 8px;
 }
 
 #profile-pic {
@@ -59,15 +58,11 @@ margin-bottom: 0px;
   margin-top: 20px;
 }
 
-/*#contact-us {
-  padding: 30px;
-}*/
-
 footer {
   margin-top: 25px;
+  margin-bottom: 25px;
   letter-spacing: 2px;
 }
-/*Alegreya Sans SC, 'Amatic SC'*/
 
 @media (max-width: 767px) {
     .navbar-fixed-top {

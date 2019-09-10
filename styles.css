@@ -6,30 +6,34 @@ h1 {
   padding-top: 70px;
 }
 
-.header-title {
-  font-size: 50px;
-  color: grey;
+.text-center {
   text-align: center;
-  /*border: 1px red solid;*/
 }
 
-.icons-right {
-  margin-left: 210px;
+.col-sm-5, .col-sm-4, .col-sm-8 {
+  border: blue solid 1px;
 }
 
-.row {
-  /*border: 1px red solid;*/
+.col-sm-5 {
+  text-align: center;
+}
+.col-sm-2 {
+  text-align: center;
 }
 
-.header-title p {
-  font-size: 20px;
-  margin-top: -10px;
+.col-sm-8 {
+}
+
+#brand-logo {
+margin-left: 10px;
 }
 
 .logo {
-max-height: 125px;
+max-height: 110px;
 width: auto;
-margin-right: -10px;
+margin-left: 65px;
+margin-right: 65px;
+/*margin-right: -10px; */
 /*border: 10x blue solid;*/
 }
 
@@ -42,6 +46,7 @@ margin-bottom: 0px;
 .big-pic {
   width: 100%;
   height: auto;
+  margin-top: 18px;
 }
 
 #profile-pic {
@@ -50,20 +55,8 @@ margin-bottom: 0px;
   border-radius: 100%;
 }
 
-.logo-school {
-  margin-left: 25px;
-  margin-right: 25px;
-  margin-bottom: 20px;
-  height: 125px;
-  width: auto;
-}
-
 .content {
   margin-top: 20px;
-}
-
-.row {
-  margin-bottom: 0px;
 }
 
 /*#contact-us {

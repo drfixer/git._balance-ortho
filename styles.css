@@ -1,5 +1,6 @@
-.row {
-  width: 100%;
+
+html {
+  scroll-behavior: smooth;
 }
 body {
   padding-top: 70px;
@@ -13,7 +14,7 @@ h1 {
   font-size: 18px;
 }
 
-.large-text li, p  {
+.large-text  {
   font-size: 18px;
 }
 
@@ -21,7 +22,7 @@ h1 {
   text-align: center;
 }
 
-.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6  {
+.col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5  {
   text-align: center;
 }
 

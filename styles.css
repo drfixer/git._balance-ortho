@@ -69,6 +69,12 @@ margin-bottom: 0px;
   margin-top: 20px;
 }
 
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; /* Ratio 16:9 ( 100%/16*9 = 56.25% ) */
+}
+
 footer {
   margin-top: 25px;
   margin-bottom: 25px;
